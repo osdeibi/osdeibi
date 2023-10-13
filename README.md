@@ -19,7 +19,7 @@ Soy Osdeibi Acurero, un apasionado desarrollador Full Stack y especialista en SE
 ## Conecta Conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/oacurero/)
-- [YouTube](https://www.youtube.com/@SeoEnEspanol/about)
+- [YouTube](https://www.youtube.com/@SeoEnEspanol/about/)
 - https://osdeibi.dev
 
 ## Herramientas y Experiencia
