@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 # Osdeibi Acurero
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-SEO%20en%20Español-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/SeoEnEspanol)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-SEO%20en%20Español-red?style=flat-square&logo=youtube)](https://www.youtube.com/@SeoEnEspanol/about)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oacurero/)
 [![AWS Certified Cloud Practitioner Badge](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c6cdb000-4e2e-4147-9e5e-40aa7d192878)
 
