@@ -4,11 +4,13 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-SEO%20en%20Español-red?style=flat-square&logo=youtube)](https://www.youtube.com/@SeoEnEspanol/about)
 [![Wordpress Badge](https://img.shields.io/badge/Wordpress-Osdeibi-red?style=flat-square&logo=wordpress)](https://profiles.wordpress.org/osdeibi/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oacurero/)
-[![AWS Certified Cloud Practitioner Badge](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c6cdb000-4e2e-4147-9e5e-40aa7d192878)
+
+<a href="https://www.credly.com/badges/c6cdb000-4e2e-4147-9e5e-40aa7d192878">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Chrome extensions" width="300" />
+</a>
 
 
 # Mira mi extension de SEO gratuita para Wordpress
-[![Chrome extensions](https://ps.w.org/bucky-seo-tools/assets/icon.svg)](https://wordpress.org/plugins/bucky-seo-tools/)
 <a href="https://wordpress.org/plugins/bucky-seo-tools/">
   <img src="https://ps.w.org/bucky-seo-tools/assets/icon.svg" alt="Chrome extensions" width="300" />
 </a>
