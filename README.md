@@ -13,7 +13,9 @@
 [![Chrome extensions](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png)](https://chromewebstore.google.com/detail/seo-tools-by-osdeibi-acur/pjbkhbgjgohphehbhcbbdboganokbefk)
 # Mira mi extension de vista 3D de paginas web
 [![Chrome extensions](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png)](https://chromewebstore.google.com/detail/3d-view-website/plodplkpcckemdhbahefdjbebnlngdih)
-
+<a href="https://chromewebstore.google.com/detail/3d-view-website/plodplkpcckemdhbahefdjbebnlngdih">
+  <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png" alt="Chrome extensions" width="300" />
+</a>
 
 ## Sobre Mí
 
